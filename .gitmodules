@@ -1,0 +1,18 @@
+[submodule "sources/u-boot"]
+	path = sources/u-boot
+	url = https://github.com/sbausis/u-boot-sunxi.git
+[submodule "sources/sunxi-tools"]
+	path = sources/sunxi-tools
+	url = https://github.com/sbausis/sunxi-tools.git
+[submodule "sources/fbtft-drivers"]
+	path = sources/fbtft-drivers
+	url = https://github.com/sbausis/fbtft.git
+[submodule "sources/sunxi-display-changer"]
+	path = sources/sunxi-display-changer
+	url = https://github.com/sbausis/a10disp.git
+[submodule "sources/rt8192cu"]
+	path = sources/rt8192cu
+	url = https://github.com/sbausis/rt8192cu.git
+[submodule "sources/linux-sunxi-dev"]
+	path = sources/linux-sunxi-dev
+	url = https://github.com/sbausis/linux-sunxi.git
