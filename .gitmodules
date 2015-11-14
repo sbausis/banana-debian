@@ -15,7 +15,7 @@
 	url = https://github.com/sbausis/rt8192cu.git
 [submodule "sources/linux-sunxi-dev"]
 	path = sources/linux-sunxi-dev
-	url = https://github.com/sbausis/linux-sunxi.git
+	url = https://github.com/LeMaker/linux-sunxi.git
 [submodule "sources/hostapd-ap6210"]
 	path = sources/hostapd-ap6210
 	url = https://github.com/sbausis/hostapd-ap6210.git
